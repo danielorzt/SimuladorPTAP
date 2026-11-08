@@ -2,3 +2,7 @@ bin/
 obj/
 .vs/
 *.user
+
+# Entregables del curso: se suben a Canvas, no al repositorio
+*.docx
+*.pdf
