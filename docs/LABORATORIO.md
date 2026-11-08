@@ -78,7 +78,7 @@ Equilibrio a 25 °C. CID inicial = 4,560×10⁻⁴ mol/L. Kc₁ = 4,47×10⁻⁷
 | Corrida | Variable | pH | Qué se observa |
 | --- | --- | ---: | --- |
 | Inicial | — | 7,20 | α(H₂CO₃*) 12,4 %; α(HCO₃⁻) 87,6 %; HClO 66,6 % |
-| Cerrado, sin cal | se consume el HCO₃⁻ | 3,80 | α0 = 99,7 %; HClO ≈ 100 %; Al residual del modelo 1,12 mg/L |
+| Cerrado, sin cal | se consume el HCO₃⁻ | 3,80 | α0 = 99,7 %; HClO ≈ 100 %; Al residual del modelo 1,11 mg/L |
 | Aireado, sin cal | se retira el H₂CO₃* | 3,81 | El pH no vuelve: la acidez que sobra es H⁺, no CO₂ |
 | Cal justa, 4,36 mg/L, cerrado | alcalinidad final = 0 | 4,85 | El rendimiento estequiométrico ya es 100 % y el pH sigue ácido |
 | Esa cal, aireado | se retira el H₂CO₃* | 5,64 | Sube y permanece bajo 6,5 |
